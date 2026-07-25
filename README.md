@@ -13,6 +13,7 @@
 
 **GitHub:** https://github.com/DSahms/ledger-quest  
 **Sibling B:** https://github.com/DSahms/claims-field  
+**Forms canon:** [docs/CLAIMS_FORMS_CANON.md](./docs/CLAIMS_FORMS_CANON.md)
 
 Shared later: claim packet / export schema. Separate codebases.
 
